@@ -138,6 +138,7 @@ NOZO:
 1. Sadowski Łukasz
 1. Socha Bartłomiej
 1. Wilamowski Paweł
+1. [Hrycikowski Rafał] (https://github.com/kreteda/projekt-ruby)
 
 <!--
 1. Wójcicka Zuzanna – niezaliczone laboratorium
